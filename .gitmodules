@@ -1,0 +1,3 @@
+[submodule "DIPdiuno_USB_firmware"]
+	path = DIPdiuno_USB_firmware
+	url = https://github.com/svencov/DIPdiuno_USB_firmware.git
