@@ -1,6 +1,6 @@
 [submodule "DIPdiuno_USB_firmware"]
-	path = DIPdiuno_USB_firmware
+	path = DIPduino_USB_firmware
 	url = https://github.com/svencov/DIPdiuno_USB_firmware.git
 [submodule "DIPdiuno_KiCad"]
-	path = DIPdiuno_KiCad
+	path = DIPduino_KiCad
 	url = https://github.com/svencov/DIPdiuno_KiCad.git
